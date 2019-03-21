@@ -31,7 +31,7 @@ const {User} = require('./../server/models/user');
 //     console.log(e);
 // });
 
-var id = '6c8f8c1ffbdb471b360c70ac';
+var id = '5c8f8c1ffbdb471b360c70ac';
 
     User.find({
         _id: id
